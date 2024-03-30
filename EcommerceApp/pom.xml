@@ -4,7 +4,6 @@
   <groupId>com</groupId>
   <artifactId>EcommerceApp</artifactId>
   <packaging>war</packaging>
-  <version>0.0.2</version>
   <name>EcommerceApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
